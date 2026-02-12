@@ -7,7 +7,7 @@ main:
     conference: "Conference on Empirical Methods in Natural Language Processing: Industry Track 2025."
     pdf: https://aclanthology.org/2025.emnlp-industry.166.pdf
     bibtex: https://aclanthology.org/2025.emnlp-industry.166/
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/himanshu-dutta/graft
     image: ./assets/img/graft.png
 
   - title: "Recon, Answer, Verify: Agents in Search of Truth"
@@ -16,7 +16,6 @@ main:
     conference: "Conference on Empirical Methods in Natural Language Processing: Industry Track 2025."
     pdf: https://aclanthology.org/2025.emnlp-industry.167.pdf
     bibtex: https://aclanthology.org/2025.emnlp-industry.167/
-    code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/rav.png
 
   - title: "An introduction to computational identification and classification of upamā alaṇkāra"
@@ -25,7 +24,7 @@ main:
     conference: Computational Sanskrit and Digital Humanities-World Sanskrit Conference 2025.
     pdf: https://aclanthology.org/2025.wsc-csdh.1.pdf
     bibtex: https://aclanthology.org/2025.wsc-csdh.1/
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/himanshu-dutta/sanskrit-upma-alankar-analysis
     image: ./assets/img/sans-upma.png
 
   - title: "Genetically optimized UFLANN for uncovering clusters"
@@ -34,7 +33,6 @@ main:
     conference: IEEE Access, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10232984
     bibtex: https://ieeexplore.ieee.org/abstract/document/10232984
-    code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/gauflann.png
 
   - title: "Wrapper based feature selection approach using black widow optimization algorithm for data classification"
@@ -43,6 +41,7 @@ main:
     conference: International Conference on Computational Intelligence in Pattern Recognition <strong>(ICCIPR)</strong>, 2022.
     pdf: https://link.springer.com/chapter/10.1007/978-981-19-3089-8_47
     bibtex: https://citation-needed.springer.com/v2/references/10.1007/978-981-19-3089-8_47?format=bibtex&flavour=citation
+    code: https://github.com/himanshu-dutta/featureselect
     image: ./assets/img/fsbwo.png
     notes: Oral Presentation
 

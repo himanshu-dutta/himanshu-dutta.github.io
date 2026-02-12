@@ -1,22 +1,55 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "GRAFT: A Graph-based Flow-aware Agentic Framework for Document-level Machine Translation"
+    authors: <strong>Himanshu Dutta</strong>, Sunny Manchanda, Prakhar Bapat, Meva Ram Gurjar, Pushpak Bhattacharyya
+    conference_short: EMNLP
+    conference: "Conference on Empirical Methods in Natural Language Processing: Industry Track 2025."
+    pdf: https://aclanthology.org/2025.emnlp-industry.166.pdf
+    bibtex: https://aclanthology.org/2025.emnlp-industry.166/
+    code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/graft.png
+
+  - title: "Recon, Answer, Verify: Agents in Search of Truth"
+    authors: Satyam Shukla, <strong>Himanshu Dutta</strong>, Pushpak Bhattacharyya
+    conference_short: EMNLP
+    conference: "Conference on Empirical Methods in Natural Language Processing: Industry Track 2025."
+    pdf: https://aclanthology.org/2025.emnlp-industry.167.pdf
+    bibtex: https://aclanthology.org/2025.emnlp-industry.167/
+    code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/rav.png
+
+  - title: "An introduction to computational identification and classification of upamā alaṇkāra"
+    authors: Bhakti Jadav, <strong>Himanshu Dutta</strong>, Shruti Kanitkar, Malhar Kulkarni, Pushpak Bhattacharyya
+    conference_short: WSC
+    conference: Computational Sanskrit and Digital Humanities-World Sanskrit Conference 2025.
+    pdf: https://aclanthology.org/2025.wsc-csdh.1.pdf
+    bibtex: https://aclanthology.org/2025.wsc-csdh.1/
+    code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/sans-upma.png
+
+  - title: "Genetically optimized UFLANN for uncovering clusters"
+    authors: <strong>Himanshu Dutta</strong>, Saurabh Bilgaiyan, Bhabani Shankar Prasad Mishra, Satchidananda Dehuri, Ashish Ghosh
+    conference_short: IEEE
+    conference: IEEE Access, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10232984
+    bibtex: https://ieeexplore.ieee.org/abstract/document/10232984
+    code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/gauflann.png
+
+  - title: "Wrapper based feature selection approach using black widow optimization algorithm for data classification"
+    authors: <strong>Himanshu Dutta</strong>, Mahendra Kumar Gourisaria, Himansu Das
+    conference_short: ICCIPR
+    conference: International Conference on Computational Intelligence in Pattern Recognition <strong>(ICCIPR)</strong>, 2022.
+    pdf: https://link.springer.com/chapter/10.1007/978-981-19-3089-8_47
+    bibtex: https://citation-needed.springer.com/v2/references/10.1007/978-981-19-3089-8_47?format=bibtex&flavour=citation
+    image: ./assets/img/fsbwo.png
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: "EnsembleDet: ensembling against adversarial attack on deepfake detection"
+    authors: <strong>Himanshu Dutta</strong>, Aditya Pandey, Saurabh Bilgaiyan
+    conference_short: JEI
+    conference: Journal of Electronic Imaging <strong>(JEI)</strong>, 2021.
+    pdf: https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-30/issue-6/063030/EnsembleDet-ensembling-against-adversarial-attack-on-deepfake-detection/10.1117/1.JEI.30.6.063030.short
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:p1ZOCdNrvKYJ:scholar.google.com/&output=citation&scisdr=Cn3fX7LbEJamljoa6qs:AHkA5jQAAAAAaY4c8qvO1p37axeJO0E9Za1_aYQ&scisig=AHkA5jQAAAAAaY4c8gbTo8nDTr8X96d1ymZh8cI&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/ensembledet.png

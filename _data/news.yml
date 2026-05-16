@@ -1,0 +1,20 @@
+main:
+  - date: 2026-05-01
+    title: "HOBIT accepted to ICML 2026"
+    link: "https://aka.ms/hobit"
+    description: "HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training was accepted to ICML 2026 (Spotlight)."
+
+  - date: 2025-11-01
+    title: "GRAFT published at EMNLP 2025"
+    link: "https://aclanthology.org/2025.emnlp-industry.166.pdf"
+    description: "GRAFT: A Graph-based Flow-aware Agentic Framework for Document-level Machine Translation."
+
+  - date: 2025-11-01
+    title: "Recon, Answer, Verify accepted at EMNLP 2025"
+    link: "https://aclanthology.org/2025.emnlp-industry.167.pdf"
+    description: "Recon, Answer, Verify: Agents in Search of Truth."
+
+  - date: 2025-07-01
+    title: "Completed M.Tech and joined Microsoft Research, India"
+    link: ""
+    description: "Completed M.Tech at IIT Bombay and later joined Microsoft Research, India as a Research Fellow (ReFoRM team)."

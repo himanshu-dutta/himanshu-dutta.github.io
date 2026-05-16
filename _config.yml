@@ -4,6 +4,11 @@ position: Research Fellow
 affiliation: Microsoft Research, India
 email: hdutta1024 (at) gmail.com
 
+# Site settings useful for SEO
+url: "https://himanshu-dutta.github.io"
+baseurl: ""
+author: "Himanshu Dutta"
+
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
@@ -54,3 +59,17 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+  - vendor
+  - .bundle
+
+# Plugins (jekyll-sitemap is safe on GitHub Pages)
+plugins:
+  - jekyll-sitemap
+
+# Social / identity for JSON-LD and sameAs links
+same_as:
+  - "https://scholar.google.com/citations?user=TjK0LgQAAAAJ&hl=en"
+  - "https://github.com/himanshu-dutta"
+  - "https://www.linkedin.com/in/hdutta1024"
+og_image: "./assets/img/teaser_example.png"
+twitter_username: "@hdutta1024"

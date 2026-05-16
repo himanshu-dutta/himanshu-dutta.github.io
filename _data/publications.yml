@@ -1,5 +1,14 @@
 main:
 
+  - title: "HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training"
+    authors: <strong>Himanshu Dutta</strong>, Lokesh Nagalapatti, Yashoteja Prabhu
+    conference_short: ICML 
+    conference: "International Conference on Machine Learning 2026."
+    pdf: https://aka.ms/hobit
+    bibtex: https://aclanthology.org/2025.emnlp-industry.166/
+    # code: https://github.com/himanshu-dutta/graft
+    image: ./assets/img/hobit.png
+    notes: 🏆 Spotlight (top 2.2%)
 
   - title: "GRAFT: A Graph-based Flow-aware Agentic Framework for Document-level Machine Translation"
     authors: <strong>Himanshu Dutta</strong>, Sunny Manchanda, Prakhar Bapat, Meva Ram Gurjar, Pushpak Bhattacharyya

@@ -4,8 +4,9 @@ main:
     authors: <strong>Himanshu Dutta</strong>, Lokesh Nagalapatti, Yashoteja Prabhu
     conference_short: ICML 
     conference: "International Conference on Machine Learning 2026."
-    pdf: https://aka.ms/hobit
-    bibtex: https://aclanthology.org/2025.emnlp-industry.166/
+    page: https://aka.ms/hobit
+    pdf: https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/hobit_camera_ready.pdf
+    bibtex: https://www.microsoft.com/en-us/research/publication/hobit-hardness-optimized-batch-sampling-for-infonce-training/bibtex/
     # code: https://github.com/himanshu-dutta/graft
     image: ./assets/img/hobit.png
     notes: 🏆 Spotlight (top 2.2%)
